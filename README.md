@@ -58,5 +58,5 @@
 
 ### Most used languages
 
-[![TEXflip's GitHub stats](https://github-readme-stats-texflip.vercel.app/api/top-langs/?username=TEXflip&theme=dark&layout=donut-vertical&hide=HTML,Jupyter%20Notebook,CSS,GSC&langs_count=8&hide_title=true&bg_color=00000000&a=1)](https://github.com/TEXflip)
+[![TEXflip's GitHub stats](https://github-readme-stats-texflip.vercel.app/api/top-langs/?username=TEXflip&theme=dark&layout=donut-vertical&hide=HTML,Jupyter%20Notebook,CSS,GSC&langs_count=8&hide_title=true&bg_color=00000000&a=2)](https://github.com/TEXflip)
 
