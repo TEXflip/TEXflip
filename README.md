@@ -1,4 +1,4 @@
-👋 I'm Michele Tessari, PhD Student on AI in CV at University of Trento and Computer Vision Engineer at BlueTensor (IT)
+👋 I'm Michele Tessari, Data Scientist and Computer Vision Engineer at BlueTensor (IT)
 
 
 
