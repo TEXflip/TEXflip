@@ -18,7 +18,6 @@
       <a href="https://github.com/django/django"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;</a>
       <img src="https://cupy.dev/images/cupy_icon.png" title="Cupy" alt="Cupy" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-      <img src="https://www.universal-robots.com/img/universal-robots_favicon.png" title="Universal Robots" alt="Universal Robots" width="40" height="40"/>&nbsp;
     </div>
   <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
@@ -54,6 +53,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
     <img src="https://imagej.net/media/icons/fiji.svg" title="ImageJ" alt="ImageJ" width="40" height="40"/>&nbsp;
+    <img src="https://www.universal-robots.com/img/universal-robots_favicon.png" title="Universal Robots" alt="Universal Robots" width="40" height="40"/>&nbsp;
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADOElEQVR4AbyWA6wtSRCGv7Vt27Zt2/apmuu1bduK9wVrK96NsS9a27z3Tnefp95UMpP0w/Tz/Ml4ylV/NzVG+1mp7LBNvIF5AZxySRA6tIWRgs18wVoAsZcVvPBkt4ctaAPxEhYrhe3sClAKRzvhLssGbcAitwwAmFGn3OkKjqENmEGrvfUAQLePzS399kwbGC5YblzBtvFCFgAIykVOuJS2MCxsFHpZDyAqi3vhMafsSoWgHOiVX6Z1BGVsfJIF8uXl/EZ54X2s+eLlLFX9vJ8THoq9LESFILzuhTitIyh3k4fJf9YoXyB0hS1jZB4AL1znC86ggh9g7aBMbDA+MQjrksF4Ya9G48JwvIwlcIOsBuA7rG3NZ+VIvL8jE/2b5IFXXso48Eg9BQsDdHs41Qs3UsHK4IU/MgoOI4M4wCpBGNck3+1lU2rYBDjlAWs4KowrOCMT/dfTI6mucn3G+Y9J4Qp28srjsZclk/R92ui9chl5bpnfKz9l5I8nhROGgqJJ9NtmvPexYDkyMANN8uaYOQgwfCHLEy9meWu+cb1slSh4tlGB8FdQXskdXvk2E/31CcccQSkcafMcT2A+gCgsExRXCczRIyjjrTnrJcArt2Mn1+G4ZPSG5rThpHxjqGBTYJnHTqPKygBGSEH5IpO+q8cX7NJ02BRZlE3yRkxUKJULnHA5dkpqcnCu9sYZZGDUmkn/WCr8egmLOeVRr+yO62G3xIHX5hrvK5qM+D5OedgC4puzsaiIBWs18r4wySg6y/sFe06X9yt44RqvnE0Ka8aMgrfmCO8DTlnD+i70sQHQPu+7gpO9cHPd9HOG94Xr8ryfrDnC/dbsADX144VPZov3hR8b5YUTktHbwStPxAGWBvhXWHf2eb+H46bH+8mU9Qelp3a8LNg2z/vKi5BHUD5q2jGlq14cZFmLflwv2wCMdFixtHuvnBeE3mkeyvpkYBvSacl55YJQsOEUJHW4E+6NY5gPsMA3sS0fbcC6vRRuc1U/xAtZ1DbDfxg3tADrk41t9sseVq25YKTD5rQFK3NXuaJehkeVrcsLWYU2YOl2wiO+YE+A/wZZ9v+Bgv9qAwMbiA8A8BpjVeBXJ0EAAAAASUVORK5CYII=" title="Hikrobot" alt="Hikrobot" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
