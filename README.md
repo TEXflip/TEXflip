@@ -18,6 +18,7 @@
       <a href="https://github.com/django/django"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;</a>
       <img src="https://cupy.dev/images/cupy_icon.png" title="Cupy" alt="Cupy" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+      <img src="https://www.universal-robots.com/img/universal-robots_favicon.png" title="Universal Robots" alt="Universal Robots" width="40" height="40"/>&nbsp;
     </div>
   <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
