@@ -55,6 +55,7 @@
     <img src="https://imagej.net/media/icons/fiji.svg" title="ImageJ" alt="ImageJ" width="40" height="40"/>&nbsp;
     <img src="https://www.universal-robots.com/img/universal-robots_favicon.png" title="Universal Robots" alt="Universal Robots" width="40" height="40"/>&nbsp;
     <img src="https://www.hikrobotics.com/en/static-front/img/06209a2981cf.svg" title="Hikrobot" alt="Hikrobot" width="128" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
