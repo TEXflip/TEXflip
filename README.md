@@ -1,4 +1,4 @@
-👋 I'm Michele Tessari, Data Scientist and Computer Vision Engineer at BlueTensor (IT)
+👋 I'm Michele Tessari, AI and Computer Vision Engineer!
 
 
 
