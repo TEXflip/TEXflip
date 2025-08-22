@@ -24,6 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" title="WebGL" alt="WebGL" width="40" height="40"/>&nbsp;
     <img src="https://p5js.org/assets/img/p5js.svg" title="p5js" alt="p5js" width="80" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wasm/wasm-original.svg" title="wasm" alt="wasm" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
     <img src="https://brm.io/matter-js/img/matter-js.svg" title="Matter.js" alt="Matter.js" width="120" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
