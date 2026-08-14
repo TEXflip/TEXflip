@@ -19,6 +19,7 @@
       <img src="https://cupy.dev/images/cupy_icon.png" title="Cupy" alt="Cupy" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="40" height="40"/>&nbsp;
+      <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" title="uv" alt="uv" width="40" height="40"/>&nbsp;
     </div>
   <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
@@ -32,6 +33,7 @@
   <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+    <img src="https://www.boost.org/static/img/Boost_Symbol_Transparent.svg" title="Boost" alt="Boost" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
   </div>
   <div style="display: flex; flex-direction: row;">
@@ -42,7 +44,6 @@
   <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="./assets/Nvidia_logo.svg" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/he/thumb/9/91/Hailo_logo.svg/180px-Hailo_logo.svg.png" title="Hailo AI" alt="Hailo AI" width="100" height="20"/>&nbsp;
       <img src="https://onnx.ai/onnx/_static/onnx-horizontal-color.png" title="Onnx" alt="Onnx" width="140" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="Opengl" alt="Opengl" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
